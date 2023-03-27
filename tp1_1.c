@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("Hola mundo");
+printf("Hola mundo\n");
 
 //punto 3e
 
